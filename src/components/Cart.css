@@ -1,0 +1,18 @@
+#cart-wrapper {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+#my-cart-title {
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+}
+
+#my-cart-total {
+  bottom: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
